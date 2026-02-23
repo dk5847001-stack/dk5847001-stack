@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Skills :-
+🚀 Skills :-
 
 ### 💻 Frontend
 <p>
@@ -63,8 +63,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
+<h2><p align="center">📊 GitHub Stats</p></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dk5847001-stack&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk5847001-stack&theme=tokyonight" />
