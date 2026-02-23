@@ -37,10 +37,10 @@
 
 ---
 
-### 💻 Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙ Tools
+### 💻 Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,terminal"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,terminal"> <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,terminal,terminal,terminal,terminal,terminal,terminal,terminal,postman">
+  <img src="https://skillicons.dev/icons?i=html,css,js,terminal,terminal">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,terminal,terminal">&nbsp; <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,terminal,terminal,terminal,mysql,terminal,terminal,terminal,terminal,vscode">
 </p>
 
 ---
