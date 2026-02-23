@@ -1,4 +1,4 @@
-![logo](https://github.com/dk5847001-stack/dk5847001-stack/blob/main/dk.png)
+![logo](https://github.com/dk5847001-stack/dk5847001-stack/blob/main/1000039792.png)
 <h1 align="center">Hi 👋, I'm Dilkhush Kumar</h1>
 
 <p align="center">
