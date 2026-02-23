@@ -1,5 +1,16 @@
 ![logo](https://github.com/dk5847001-stack/dk5847001-stack/blob/main/dk.png)
 <h1 align="center">Hi 👋, I'm Dilkhush Kumar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Development+Mastery;Node.js+%7C+Express+%7C+MongoDB+%7C+SQL;Frontend+%7C+Backend+%7C+Database;Learn.+Build.+Deploy." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0-blue.svg" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
