@@ -50,3 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dk5847001-stack&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk5847001-stack&theme=tokyonight" />
 </p>
+
+![Snake animation](https://github.com/dk5847001-stack/dk5847001-stack/blob/output/github-contribution-grid-snake.svg)
+
