@@ -63,9 +63,9 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk5847001-stack&" alt="dk5847001-stack" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dk5847001-stack&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk5847001-stack&theme=tokyonight" />
+</p>
