@@ -21,19 +21,11 @@
 
 - 🌱 I’m currently learning **Backend and Database**
 
-- 👯 I’m looking to collaborate on [Simon Says Game](https://playsimonsays.rf.gd/?i=1)
-
 - 🤝 I’m looking for help with [Education Hub](https://dilkhush736.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://dilkhush200.netlify.app/](https://dilkhush200.netlify.app/)
 
-- 📝 I regularly write articles on [dilkhush100.blogspot.com](dilkhush100.blogspot.com)
-
-- 💬 Ask me about **react, node.js, express.js**
-
 - 📫 How to reach me **dk5847001@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,24 +37,14 @@
 
 ---
 
-🚀 Skills :-
-
-### 💻 Frontend
+### 💻 Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛠 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-### 🛠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### ⚙ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  
 </p>
 
 ---
+
 <h2><p align="center">📊 GitHub Stats</p></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dk5847001-stack&show_icons=true&theme=tokyonight" />
